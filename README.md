@@ -14,7 +14,7 @@ Considerando que el valor de 1 rupia equivale a 0.012 dólar, ya sabemos por cua
 
 #### Mediante la creación de funciones procedí a cambiar los nombres de las columnas, y a eliminar carácteres en formato texto para poder realizar promedios en mi análisis y así dejar el ETL completo cada columna con su formato.
 
-### KNN
+## KNN
 
 #### El uso de la librería s-klearn hizo que fuera mas fácil el procesamiento y escalamiento de los datos, que luego de escalarlos procedí a realizar la imputación.
 #### Realizando estas técnicas mis datos quedaron como Array de Numpy con valores de entre 0 y 1, por lo cual tuve que desescalarlos para verlos en el formato requerido.
